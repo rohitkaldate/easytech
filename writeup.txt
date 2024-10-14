@@ -1,0 +1,11 @@
+The Easy Tech Solutions software company is working on web applications. I've created the HTML files for the same using the git commands on local repository and then push them on the remote Repository. Below are the git commands:
+1.mkdir
+2.touch
+3.git config --global user.name ""
+4.git config --global user.email ""
+5.echo "Authentication flow of web pages" > README.md
+6.git init
+7.git status
+8.git commit -m "Easy Tech Solutions Project"
+9.git remote add origin Repo_URL
+10.git push -u origin main
